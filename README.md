@@ -1,0 +1,2 @@
+# Garantik.
+Garantbot
